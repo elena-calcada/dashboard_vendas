@@ -225,8 +225,5 @@ with aba3:
     )
     st.plotly_chart(fig_qtde_vendas_vendedores)
 
-st.dataframe(data)
-st.dataframe(vendedores)
-
 
 
